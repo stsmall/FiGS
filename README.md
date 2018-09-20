@@ -6,6 +6,7 @@ There are currently no available simulation models that generate population gene
 [Small, ST, *et al.,* **(2013)**](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0002308): population genetics of *W. bancrofti* from Papua New Guinea  
 [Small, ST, *et al.,* **(2014)**](http://europepmc.org/articles/pmc4257870): review of techniques for studying genetic diversity in *W. bancrofti*  
 [Small, ST, *et al.,* **(2016)**](http://onlinelibrary.wiley.com/doi/10.1111/mec.13574/full): 1st published population genomics in *W. bancrofti*  
+[Small, ST, *et al.,* **(2018)**](https://www.biorxiv.org/content/early/2018/09/19/421248): Prepint on *W.bancrofti* genomics from Africa and Haiti. Includes a new genome assembly and transcriptome data.
 
 **Current Assembly**  
 [wormbase](http://parasite.wormbase.org/Wuchereria_bancrofti_prjna275548/Info/Index): Whole Genome Assembly from *Small 2016*     
